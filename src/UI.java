@@ -177,7 +177,6 @@ public class UI {
                      
         textAreaError.setText("");
         textArea2Output.setText("");
-        textAreaTree.setText("");
         textAreaTokenTypes.setText("");
 
         code = textAreaCodeInput.getText();

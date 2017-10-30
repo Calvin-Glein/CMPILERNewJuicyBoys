@@ -13,7 +13,7 @@ void  testOne(){
 }
 
 void testTwo(float x){
-	if(x == 4)
+	if(x = 4)
 	{	
 		printed("x is a very huge number: ");
 	}
@@ -35,4 +35,4 @@ void main(){
 
 }
 
-}d
+}
